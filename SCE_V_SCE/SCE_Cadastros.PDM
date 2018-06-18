@@ -1,0 +1,233 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=e:\fcmn\V873_instalador\teste
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+Text=Yes
+Jet 2.x=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Lotus=No
+Paradox=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+msoe.dll=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\WIZMAN.DLL=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\CLSSBLD.DLL=
+C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\ATLOBJ.DLL=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=
+C:\Windows\System32\ieframe.dll=
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\dao360.dll=
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMCT332.OCX=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\msadodc.ocx=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\Program Files\Microsoft Office\OFFICE11\MSCAL.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+c:\windows\system32\comctl32.dll=
+c:\windows\system32\comctl32.ocx=
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\windows\system32\comctl32.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\msadodc.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\DBLIST32.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\fcmn\SCE_2012_desenv\SCE2008.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\WINDOWS\system32\dao360.dll=Yes
+C:\WINDOWS\system32\comctl32.dll=No
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Documents and Settings\hp.YOUR-4105E587B6\My Documents\Estacionamento\SCE_313\SCE_Cadastros.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\ATLOBJ.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\CLSSBLD.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\WIZMAN.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msadodc.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\DATAFORM.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Documents and Settings\user\My Documents\Estacionamento\FCMN\SCE_414  Desenvolvimento\SCE.exe=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\Common\MSDev98\Bin\IDE\ATLOBJ.DLL=$(WinSysPath)
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\dtspkg.DLL=$(AppPath)
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\dtspump.DLL=$(AppPath)
+C:\Program Files\Microsoft Office\OFFICE11\MSCAL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSOUTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\APPWIZ.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\Documents and Settings\user\My Documents\Estacionamento\FCMN\SCE_414  Desenvolvimento\SCE2008.exe=$(AppPath)
+C:\Documents and Settings\user\My Documents\Est_CGMP\FCMN\SCE_603  Desenvolvimento\SCE2008.exe=$(AppPath)
+C:\Documents and Settings\user\My Documents\Est_CGMP\FCMN\SCE_603  Desenvolvimento\SCE2008v610.exe=$(AppPath)
+C:\Users\Chico\Documents\Est_CGMP\FCMN\SCE_603  Desenvolvimento\SCE2008v700.exe=$(AppPath)
+C:\Windows\System32\ieframe.dll=$(WinSysPath)
+C:\Windows\System32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\microsoft shared\DAO\dao360.dll=$(MSDAOPath)
+C:\Windows\System32\msjet40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjter40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjint40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\mswstr10.dll=$(WinSysPathSysFile)
+C:\Windows\System32\mswdat10.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrepl40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjtes40.dll=$(WinSysPathSysFile)
+Z:\Documents\Est_CGMP\FCMN\SCE_2012_desenv\SCE2008.exe=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\fcmn\SCE_2012_desenv\SCE2008.exe=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\system32\dao360.dll=$(MSDAOPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\hp.YOUR-4105E587B6\My Documents\Estacionamento\SCE_313\SCE_Cadastros.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\user\My Documents\Estacionamento\FCMN\SCE_414  Desenvolvimento\SCE.exe=Yes
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\dtspkg.DLL=Yes
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\dtspump.DLL=Yes
+C:\Documents and Settings\user\My Documents\Estacionamento\FCMN\SCE_414  Desenvolvimento\SCE2008.exe=Yes
+C:\Documents and Settings\user\My Documents\Est_CGMP\FCMN\SCE_603  Desenvolvimento\SCE2008.exe=Yes
+C:\Documents and Settings\user\My Documents\Est_CGMP\FCMN\SCE_603  Desenvolvimento\SCE2008v610.exe=Yes
+C:\Users\Chico\Documents\Est_CGMP\FCMN\SCE_603  Desenvolvimento\SCE2008v700.exe=Yes
+Z:\Documents\Est_CGMP\FCMN\SCE_2012_desenv\SCE2008.exe=Yes
+E:\fcmn\SCE_2012_desenv\SCE2008.exe=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=SCE2014
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=e:\fcmn\V873_instalador\teste
+ProjectFolder=E:\fcmn\SCE_2012_desenv\SCE_V_SCE
+ServerSideCab=
+File1=e:\fcmn\V873_instalador\teste\setup.exe
+File2=e:\fcmn\V873_instalador\teste\Setup.Lst
+File3=e:\fcmn\V873_instalador\teste\SCE2008.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=SCE_Cadastros
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|SCE_Cadastros]
+Icon1=SCE2008.exe
+Title1=SCE2014
+StartIn1=$(AppPath)
+Key1=Icon1

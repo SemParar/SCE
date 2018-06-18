@@ -1,0 +1,6 @@
+10.0
+3
+1       SQLCHAR             0       1        ""   		1     COper        ""
+2       SQLCHAR             0       10       ""   		2     Ntag         "" 
+3       SQLCHAR             0       10       "\r\n"   	3     Ntiv         "" 
+

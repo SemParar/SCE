@@ -1,0 +1,30 @@
+Line 397: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control Grid2 was not a loaded control class.
+Line 430: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control Grid1 was not a loaded control class.
+Line 463: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control Grid3 was not a loaded control class.
+Line 403: The property name _ExtentX in Grid2 is invalid.
+Line 404: The property name _ExtentY in Grid2 is invalid.
+Line 405: The property name _Version in Grid2 is invalid.
+Line 406: The property name Cols in Grid2 is invalid.
+Line 407: The property name FixedCols in Grid2 is invalid.
+Line 408: The property name AllowUserResizing in Grid2 is invalid.
+Line 426: The property name FontFixed in Grid2 is invalid.
+Line 427: The property name _NumberOfBands in Grid2 is invalid.
+Line 428: The property name _Band(0).Cols in Grid2 is invalid.
+Line 436: The property name _ExtentX in Grid1 is invalid.
+Line 437: The property name _ExtentY in Grid1 is invalid.
+Line 438: The property name _Version in Grid1 is invalid.
+Line 439: The property name Cols in Grid1 is invalid.
+Line 440: The property name FixedCols in Grid1 is invalid.
+Line 441: The property name AllowUserResizing in Grid1 is invalid.
+Line 459: The property name FontFixed in Grid1 is invalid.
+Line 460: The property name _NumberOfBands in Grid1 is invalid.
+Line 461: The property name _Band(0).Cols in Grid1 is invalid.
+Line 469: The property name _ExtentX in Grid3 is invalid.
+Line 470: The property name _ExtentY in Grid3 is invalid.
+Line 471: The property name _Version in Grid3 is invalid.
+Line 472: The property name Cols in Grid3 is invalid.
+Line 473: The property name FixedCols in Grid3 is invalid.
+Line 474: The property name AllowUserResizing in Grid3 is invalid.
+Line 492: The property name FontFixed in Grid3 is invalid.
+Line 493: The property name _NumberOfBands in Grid3 is invalid.
+Line 494: The property name _Band(0).Cols in Grid3 is invalid.

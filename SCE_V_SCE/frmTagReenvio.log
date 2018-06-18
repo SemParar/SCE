@@ -1,0 +1,5 @@
+Line 16: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control Grid1 was not a loaded control class.
+Line 83: Class MSComCtl2.DTPicker of control DTPSaiDia was not a loaded control class.
+Line 106: Class MSComCtl2.DTPicker of control DTPSaiHora was not a loaded control class.
+Line 180: Class MSComCtl2.DTPicker of control DTPEntHora was not a loaded control class.
+Line 204: Class MSComCtl2.DTPicker of control DTPEntDia was not a loaded control class.

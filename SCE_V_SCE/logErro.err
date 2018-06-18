@@ -1,0 +1,15 @@
+Data: 24/08/2017 14:45:30 - SCE Main : 
+  Arquivo : SCE Main  Rotina   : SCE Main
+Data: 24/08/2017 14:50:12 - LerGlobais : 
+  Arquivo : Type mismatch  Rotina   : LerGlobais
+Data: 24/08/2017 15:45:25 - SCE Main : 
+  Arquivo : SCE Main  Rotina   : SCE Main
+Data: 24/08/2017 15:46:46 -  SCE - Sistema de Controle de Estacionamento - Shopping Completar - helpfile : Você Realmente esta Saindo da Aplicação - SCE  cod: 36
+Data: 24/08/2017 15:49:24 - LerGlobais : 
+  Arquivo : Type mismatch  Rotina   : LerGlobais
+Data: 21/03/2018 17:59:24 -  SCE - Sistema de Controle de Estacionamento - Nome Shopping - helpfile : Você Realmente esta Saindo da Aplicação - SCE  cod: 36
+Data: 21/03/2018 17:59:36 -  SCE - Sistema de Controle de Estacionamento - Nome Shopping - helpfile : Você Realmente esta Saindo da Aplicação - SCE  cod: 36
+Data: 21/03/2018 18:01:47 -  SCE - Cadastro de Tag - Nome Shopping - helpfile : Você Realmente esta Saindo da Aplicação - SCETAG  cod: 36
+Data: 21/03/2018 18:05:05 -  SCE - Cadastro de Tag - Nome Shopping - helpfile : Você Realmente esta Saindo da Aplicação - SCETAG  cod: 36
+Data: 21/03/2018 18:16:35 -  TrataFileTAG : 
+  Arquivo : Could not find stored procedure 'PR_SETINI'.  Rotina   :  TrataFileTAG
